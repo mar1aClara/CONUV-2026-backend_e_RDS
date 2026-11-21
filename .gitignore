@@ -1,0 +1,24 @@
+
+# Java
+*.class
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+s3_public_access.txt
